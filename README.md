@@ -8,6 +8,5 @@ Lancer une boucle qui va demander l'opération à effectuer, les deux nombres co
 #
 #
 - Inspiré par [`@Gassiruphin237`][ruphin]
-- Fichier js 
 
 [ruphin]: https://github.com/Gassiruphin237
